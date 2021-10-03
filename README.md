@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarabjeet Singh</h1>
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning java
 
 - 📫 How to reach me **sarabjeet.singh6265@gmail.com**
 
