@@ -1,4 +1,4 @@
-<h1 align="center">Hi,![image](https://user-images.githubusercontent.com/88477257/136049987-aa8dac1b-dae7-4c3a-b817-0edee3010141.png) I'm Sarabjeet Singh</h1>
+<h1 align="center">Hi,! <img src = "https://user-images.githubusercontent.com/88477257/136049987-aa8dac1b-dae7-4c3a-b817-0edee3010141.png"> I'm Sarabjeet Singh</h1>
 - 🌱 I’m currently learning 
 
 - 📫 How to reach me **sarabjeet.singh6265@gmail.com**
