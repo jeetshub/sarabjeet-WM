@@ -1,5 +1,5 @@
 <h1 align="center">Hi,! <img height="27" src = "https://user-images.githubusercontent.com/88477257/136049987-aa8dac1b-dae7-4c3a-b817-0edee3010141.png"> I'm Sarabjeet Singh</h1>
-- 🌱 I’m currently learning **Data structures & Algorithms in java**
+- 🌱 I’m currently learning "Data structures & Algorithms in java"
 
 - 📫 How to reach me **sarabjeet.singh6265@gmail.com**
 
